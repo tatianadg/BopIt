@@ -29,11 +29,17 @@ Button 1 - Start the game
 
 ### Actions:
 Up: 	    Move the Joystick up
+
 Down:    Move the Joystick Down
+
 Right:     Move the Joystick Right
+
 Left:	   Move the Joystick Left
+
 Bop-it:    Press the Joystick
+
 Shake:   Shake the BoosterPack
+
 Button:   Press the button 2
 
 
